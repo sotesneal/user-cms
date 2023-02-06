@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nejBJkRBk6Ff90GGjI7uG4rgOLdVBpzb9sG4IdSz5uOLjQkW6yUWE3ooks+LeDkcZNsiv5LDhvGrbn4PUNLMQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Full Scale\\Desktop\\mini-projects\\fullscale-upkilling\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

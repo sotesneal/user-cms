@@ -1,0 +1,22 @@
+[
+  {
+    "id": "G7M0RO",
+    "first_name": "Nealford",
+    "last_name": "Sotes",
+    "email": "nsotes@fullscale.io",
+    "physical_address": {
+      "landmark": "Centro",
+      "street": "Panas Timpolok",
+      "city": "Lapu-Lapu",
+      "country": "Philippines"
+    },
+    "billing_address": {
+      "landmark": "Centro",
+      "street": "Panas Timpolok",
+      "city": "Lapu-Lapu",
+      "country": "PH"
+    },
+    "updated_at": 1675676543511,
+    "created_at": 1675259603072
+  }
+]
