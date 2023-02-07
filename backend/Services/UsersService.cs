@@ -3,14 +3,7 @@ using System.Text.Json;
 
 namespace backend.Services
 {
-    public interface IUsersService 
-    {
-        IEnumerable<User> GetUsers();
-        User? GetUser(int id);
-        void AddUser(User user);
-        void UpdateUser(User user);
-        void DeleteUser(User user);
-    }
+   
     public class UsersService : IUsersService
     {
         private readonly string _fileName = "data.json";
