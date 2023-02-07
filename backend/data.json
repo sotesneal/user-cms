@@ -1,22 +1,22 @@
 [
   {
-    "id": "G7M0RO",
-    "first_name": "Nealford",
-    "last_name": "Sotes",
-    "email": "nsotes@fullscale.io",
-    "physical_address": {
-      "landmark": "Centro",
-      "street": "Panas Timpolok",
-      "city": "Lapu-Lapu",
-      "country": "Philippines"
+    "Id": 4,
+    "FirstName": "Nealford",
+    "LastName": "Sotes",
+    "Email": "nealfordsotes@gmail.com",
+    "PhysicalAddress": {
+      "Landmark": "Babag",
+      "Street": "Timpolok",
+      "City": "Lapu-Lapu",
+      "Country": "Ph"
     },
-    "billing_address": {
-      "landmark": "Centro",
-      "street": "Panas Timpolok",
-      "city": "Lapu-Lapu",
-      "country": "PH"
+    "BillingAddress": {
+      "Landmark": "Babag",
+      "Street": "Timpolok",
+      "City": "Lapu-Lapu",
+      "Country": "Ph"
     },
-    "updated_at": 1675676543511,
-    "created_at": 1675259603072
+    "UpdatedAt": "2023-02-07T18:14:19.3141304+08:00",
+    "CreatedAt": "2023-02-07T18:07:35.2609753+08:00"
   }
 ]
